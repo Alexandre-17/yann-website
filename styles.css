@@ -1,0 +1,156 @@
+
+*
+{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+    color: #444;
+}
+
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+h1{
+    font-family: 'crete round', serif;
+    font-size: 30px;
+    color:#444;
+}
+h2{
+    color:cadetblue;
+    font-size: 50px;
+}
+h3{
+color: #444;
+font-size: 25px;
+}
+p{
+line-height: 20px;
+color: #777;
+}
+ul{
+    list-style: none;
+}
+.wrapper{
+    height: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+header{
+    height:120px;
+    margin-top: 30px;
+}
+header h1{
+    float:left;
+}
+header nav{
+    float: right;
+}
+header nav ul li{
+    float: left;
+    display:inline-block ;
+}
+header nav ul li a{
+    text-transform: uppercase;
+    font-weight: bold ;
+    margin: 20px;
+}
+
+.image img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 5px solid ;
+    float: left;
+    
+}
+.image1 img{
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    border: 3px solid ;
+    float: left;
+}
+.image2 img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid ;
+    float: left;
+}
+.image3 img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid ;
+    float: left;
+}
+/*MY-IMAGE*/
+
+#my-image{
+height: 550px;
+background: url('img/my-image.jpg') center;
+}
+#my-image{
+text-transform: uppercase;
+text-align: center;
+padding: 150px 0 40px 0;
+margin-bottom: 20px;
+}
+.button{
+    display:block ;
+    width:120px;
+    height: 50px;
+    background-color:lightblue;
+    font-size: 20px;
+    margin: 0 auto;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 4px;
+}
+.button:hover{
+    background:#777;
+}
+/*ABOUT*/
+#About ul{
+padding-top: 100px;
+}
+#About ul li{
+width: 300px;
+float: left;
+margin: 60px;
+text-align: center;
+}
+#About h3{
+    margin-bottom: 20px;
+}
+#About p{
+background-color:lightskyblue;
+}
+#About-1{.
+}
+    
+}
+#About-2{
+    
+}
+#About-3{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
